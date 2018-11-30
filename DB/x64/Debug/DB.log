@@ -1,0 +1,69 @@
+﻿  Base64.cpp
+e:\study files\数据库系统实现\项目dxl\db\base64.cpp(53): warning C4244: “return”: 从“__int64”转换到“int”，可能丢失数据
+e:\study files\数据库系统实现\项目dxl\db\base64.cpp(119): warning C4244: “return”: 从“__int64”转换到“int”，可能丢失数据
+  Block.cpp
+e:\study files\数据库系统实现\项目dxl\db\block.cpp(13): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\string.h(133): note: 参见“strcpy”的声明
+e:\study files\数据库系统实现\项目dxl\db\block.cpp(14): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\string.h(133): note: 参见“strcpy”的声明
+e:\study files\数据库系统实现\项目dxl\db\block.cpp(23): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\string.h(133): note: 参见“strcpy”的声明
+e:\study files\数据库系统实现\项目dxl\db\block.cpp(24): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\string.h(133): note: 参见“strcpy”的声明
+e:\study files\数据库系统实现\项目dxl\db\block.cpp(83): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\string.h(133): note: 参见“strcpy”的声明
+e:\study files\数据库系统实现\项目dxl\db\block.cpp(140): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\string.h(133): note: 参见“strcpy”的声明
+e:\study files\数据库系统实现\项目dxl\db\block.cpp(141): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\string.h(133): note: 参见“strcpy”的声明
+e:\study files\数据库系统实现\项目dxl\db\block.cpp(142): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\string.h(133): note: 参见“strcpy”的声明
+  BlockMgr.cpp
+e:\study files\数据库系统实现\项目dxl\db\blockmgr.h(20): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\string.h(133): note: 参见“strcpy”的声明
+  BPlus_node.cpp
+  BPlus_tree.cpp
+  Convertor.cpp
+e:\study files\数据库系统实现\项目dxl\db\convertor.cpp(4): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+e:\study files\数据库系统实现\项目dxl\db\convertor.cpp(23): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1774): note: 参见“sprintf”的声明
+e:\study files\数据库系统实现\项目dxl\db\convertor.cpp(74): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+e:\study files\数据库系统实现\项目dxl\db\convertor.cpp(86): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+e:\study files\数据库系统实现\项目dxl\db\convertor.cpp(85): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\string.h(133): note: 参见“strcpy”的声明
+  DB.cpp
+  Dict.cpp
+  Logger.cpp
+  main.cpp
+  bison_parser.cpp
+  flex_lexer.cpp
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\stdint.h(48): warning C4005: “INT8_MIN”: 宏重定义
+  e:\study files\数据库系统实现\项目dxl\db\flex_lexer.cpp(293): note: 参见“INT8_MIN”的前一个定义
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\stdint.h(49): warning C4005: “INT16_MIN”: 宏重定义
+  e:\study files\数据库系统实现\项目dxl\db\flex_lexer.cpp(296): note: 参见“INT16_MIN”的前一个定义
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\stdint.h(50): warning C4005: “INT32_MIN”: 宏重定义
+  e:\study files\数据库系统实现\项目dxl\db\flex_lexer.cpp(299): note: 参见“INT32_MIN”的前一个定义
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\stdint.h(52): warning C4005: “INT8_MAX”: 宏重定义
+  e:\study files\数据库系统实现\项目dxl\db\flex_lexer.cpp(302): note: 参见“INT8_MAX”的前一个定义
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\stdint.h(53): warning C4005: “INT16_MAX”: 宏重定义
+  e:\study files\数据库系统实现\项目dxl\db\flex_lexer.cpp(305): note: 参见“INT16_MAX”的前一个定义
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\stdint.h(54): warning C4005: “INT32_MAX”: 宏重定义
+  e:\study files\数据库系统实现\项目dxl\db\flex_lexer.cpp(308): note: 参见“INT32_MAX”的前一个定义
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\stdint.h(56): warning C4005: “UINT8_MAX”: 宏重定义
+  e:\study files\数据库系统实现\项目dxl\db\flex_lexer.cpp(311): note: 参见“UINT8_MAX”的前一个定义
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\stdint.h(57): warning C4005: “UINT16_MAX”: 宏重定义
+  e:\study files\数据库系统实现\项目dxl\db\flex_lexer.cpp(314): note: 参见“UINT16_MAX”的前一个定义
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\stdint.h(58): warning C4005: “UINT32_MAX”: 宏重定义
+  e:\study files\数据库系统实现\项目dxl\db\flex_lexer.cpp(317): note: 参见“UINT32_MAX”的前一个定义
+e:\study files\数据库系统实现\项目dxl\db\flex_lexer.l(218): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+  SQLParser.cpp
+  SQLParserResult.cpp
+  Expr.cpp
+e:\study files\数据库系统实现\项目dxl\db\sql\expr.cpp(250): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\string.h(338): note: 参见“strncpy”的声明
+  SQLStatement.cpp
+  statements.cpp
+  sqlhelper.cpp
+  正在生成代码...
+e:\study files\数据库系统实现\项目dxl\db\blockmgr.cpp(78): warning C4172: 返回局部变量或临时变量的地址: item
+  DB.vcxproj -> E:\Study Files\数据库系统实现\项目dxl\x64\Debug\DBServer.exe
